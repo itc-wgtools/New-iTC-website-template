@@ -3,8 +3,8 @@
 :toc:
 :imagesdir: images
 :icons: font
-:revnumber: 0.1
-:revdate: 2019-08-22
+:revnumber: 0.2
+:revdate: 2020-01-28
 
 :iTC-longname: Coffee Maker
 :iTC-shortname: CM-iTC
@@ -28,6 +28,7 @@ These are example links for resources. Probably important to have a library page
 
 * link:/cPP/cPPv01.html[cPP v0.1]
 * link:/SD/SDv01.html[SD v0.1]
+* link:/TD/tech-dec.html[Technical Decisions]
 * link:/library.html[Documentation Library]
 * link:/docs/public-review-process.html[Public Review Process for {iTC-shortname}]
 * link:/public-review/status.html[Public Review Status]
