@@ -15,15 +15,15 @@
 == Introduction
 These are links to the documents governing the {iTC-longname} iTC. 
 
-* Essential Security Requirements
-* Terms of Reference
-* {iTC-longname} iTC Status Table
-* {iTC-longname} iTC Work Plan
-* Maintenance Process Workflow
-* Interpretation Team Process
-* Interpretation Team Submission Form
-* {iTC-longname} iTC list of allowed PP-Configuration components
-* Public Review Process
+* [Essential Security Requirements]
+* [Terms of Reference]
+* [{iTC-longname} iTC Status Table]
+* [{iTC-longname} iTC Work Plan]
+* [Maintenance Process Workflow]
+* [Interpretation Team Process]
+* [Interpretation Team Submission Form]
+* [{iTC-longname} iTC list of allowed PP-Configuration components]
+* [Public Review Process]
 
 
 [NOTE]

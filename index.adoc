@@ -29,6 +29,7 @@ These are example links for resources. Probably important to have a library page
 * link:/cPP/cPPv01.html[cPP v0.1]
 * link:/SD/SDv01.html[SD v0.1]
 * link:/TD/tech-dec.html[Technical Decisions]
+* link:/docs/PP-config.html[Allowed Components]
 * link:/library.html[Documentation Library]
 * link:/docs/public-review-process.html[Public Review Process for {iTC-shortname}]
 * link:/public-review/status.html[Public Review Status]
